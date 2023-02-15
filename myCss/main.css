@@ -24,18 +24,10 @@ i{
     font-size: 14px;
 }
 
-.top-left i{
-    color: white;
-}
-
 small{
     color: black;
     font-size: 12px;
     font-weight: 500;
-}
-
-.top-left small{
-    color: white;
 }
 
 p{
@@ -45,7 +37,7 @@ p{
 }
 
 h1{
-    color: white;
+    color: black;
     font-size: 30px;
     font-family: 'Spectral SC', serif;
     text-align: left;
@@ -59,7 +51,7 @@ h3{
 }
 
 h4{
-    color: rgba(245, 245, 245, 0.651);
+    color: rgb(85, 0, 0);
     font-size: 20px;
     text-decoration: overline;
     font-family: 'Times New Roman', Times, serif;
