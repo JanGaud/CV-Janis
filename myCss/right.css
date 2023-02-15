@@ -31,3 +31,17 @@
     display: flex;
     justify-content: space-between;
 }
+
+.references{
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+    border: 2px solid rgb(85, 0, 0);
+}
+
+.job-title{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    align-items: center;
+}

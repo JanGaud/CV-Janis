@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Spectral+SC:ital,wght@1,700&display=swap');
 
-html>*{
-    background-color: dotted red 1px;
-}
-
 html{
     background-color: rgb(197, 197, 197);
 }
@@ -34,6 +30,12 @@ p{
     padding: 10px;
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.job-title>p{
+    color: rgb(85, 0, 0);
+    padding: 0;
+    margin-bottom: 8px;
 }
 
 h1{
