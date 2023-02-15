@@ -15,7 +15,6 @@
 
 .experience{
    display: flex;
-   height: fit-content;
    gap: 20px;
    flex-direction: column;
 }
