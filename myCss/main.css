@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:ital,wght@1,700&display=swap');
+
+html>*{
+    background-color: dotted red 1px;
+}
+
+html{
+    background-color: rgb(197, 197, 197);
+}
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 210mm;
+    height: 290mm;
+}
+
+body{
+    display: flex;
+}
+
+i{
+    color: black;
+    font-size: 14px;
+}
+
+.top-left i{
+    color: white;
+}
+
+small{
+    color: black;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.top-left small{
+    color: white;
+}
+
+p{
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: white;
+    font-size: 30px;
+    font-family: 'Spectral SC', serif;
+    text-align: left;
+}
+
+h3{
+    color: rgb(85, 0, 0);
+    font-size: 24px;
+    font-family: 'Spectral SC', serif;
+    text-align: left;
+}
+
+h4{
+    color: rgba(245, 245, 245, 0.651);
+    font-size: 20px;
+    text-decoration: overline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align: left;
+}
+
+h5{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h6{
+    font-family: 'Times New Roman', Times, serif;
+}

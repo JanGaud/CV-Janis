@@ -1,0 +1,33 @@
+.right{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 60%;
+    height: 100%;
+}
+
+.right>section{
+    line-height: 1.3;
+    width: 100%;
+    height: fit-content;
+}
+
+.experience{
+   display: flex;
+   height: fit-content;
+   gap: 20px;
+   flex-direction: column;
+}
+
+.experience>div{
+    width: 100%;
+    height: 250px;
+}
+
+
+.exp-i{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

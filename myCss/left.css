@@ -1,0 +1,45 @@
+.left{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(245, 245, 245);
+}
+
+.left> .top-left{
+    padding: 20px;
+    background-color: rgb(109, 0, 27);
+    height:fit-content;
+    width: 100%;
+}
+
+.contact-icon{
+    margin-top: 20px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.contact-icon>div{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact-icon>small{
+    justify-self: left;
+}
+
+.bottom-left{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 20px;
+}
+
+.botton-left i{
+    color: black;
+}
+
